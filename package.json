@@ -1,0 +1,9 @@
+{
+  "name": "js-dpj2qw",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.5.3",
+    "three": "^0.110.0"
+  }
+}
